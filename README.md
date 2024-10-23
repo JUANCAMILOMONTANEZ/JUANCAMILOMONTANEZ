@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JUANCAMILOMONTANEZ
 - 👀 I’m interested in Audio
-- 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Audio
 - 📫 How to reach me ...
 
